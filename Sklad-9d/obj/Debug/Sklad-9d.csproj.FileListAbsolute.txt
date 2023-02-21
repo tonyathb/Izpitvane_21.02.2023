@@ -1,0 +1,8 @@
+C:\Users\tbele\source\repos\Arrays-9d\Sklad-9d\obj\Debug\Sklad-9d.csproj.AssemblyReference.cache
+C:\Users\tbele\source\repos\Arrays-9d\Sklad-9d\obj\Debug\Sklad-9d.csproj.SuggestedBindingRedirects.cache
+C:\Users\tbele\source\repos\Arrays-9d\Sklad-9d\obj\Debug\Sklad-9d.csproj.CoreCompileInputs.cache
+C:\Users\tbele\source\repos\Arrays-9d\Sklad-9d\bin\Debug\Sklad-9d.exe.config
+C:\Users\tbele\source\repos\Arrays-9d\Sklad-9d\bin\Debug\Sklad-9d.exe
+C:\Users\tbele\source\repos\Arrays-9d\Sklad-9d\bin\Debug\Sklad-9d.pdb
+C:\Users\tbele\source\repos\Arrays-9d\Sklad-9d\obj\Debug\Sklad-9d.exe
+C:\Users\tbele\source\repos\Arrays-9d\Sklad-9d\obj\Debug\Sklad-9d.pdb

@@ -1,0 +1,7 @@
+C:\Users\tbele\source\repos\Arrays-9d\ArrayTo1Row\bin\Debug\ArrayTo1Row.exe.config
+C:\Users\tbele\source\repos\Arrays-9d\ArrayTo1Row\bin\Debug\ArrayTo1Row.exe
+C:\Users\tbele\source\repos\Arrays-9d\ArrayTo1Row\bin\Debug\ArrayTo1Row.pdb
+C:\Users\tbele\source\repos\Arrays-9d\ArrayTo1Row\obj\Debug\ArrayTo1Row.csproj.AssemblyReference.cache
+C:\Users\tbele\source\repos\Arrays-9d\ArrayTo1Row\obj\Debug\ArrayTo1Row.csproj.CoreCompileInputs.cache
+C:\Users\tbele\source\repos\Arrays-9d\ArrayTo1Row\obj\Debug\ArrayTo1Row.exe
+C:\Users\tbele\source\repos\Arrays-9d\ArrayTo1Row\obj\Debug\ArrayTo1Row.pdb

@@ -1,0 +1,7 @@
+C:\Users\tbele\source\repos\Arrays-9d\StringToCharsArray\bin\Debug\StringToCharsArray.exe.config
+C:\Users\tbele\source\repos\Arrays-9d\StringToCharsArray\bin\Debug\StringToCharsArray.exe
+C:\Users\tbele\source\repos\Arrays-9d\StringToCharsArray\bin\Debug\StringToCharsArray.pdb
+C:\Users\tbele\source\repos\Arrays-9d\StringToCharsArray\obj\Debug\StringToCharsArray.csproj.AssemblyReference.cache
+C:\Users\tbele\source\repos\Arrays-9d\StringToCharsArray\obj\Debug\StringToCharsArray.csproj.CoreCompileInputs.cache
+C:\Users\tbele\source\repos\Arrays-9d\StringToCharsArray\obj\Debug\StringToCharsArray.exe
+C:\Users\tbele\source\repos\Arrays-9d\StringToCharsArray\obj\Debug\StringToCharsArray.pdb

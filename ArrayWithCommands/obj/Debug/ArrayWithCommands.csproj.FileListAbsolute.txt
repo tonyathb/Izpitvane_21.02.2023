@@ -1,0 +1,7 @@
+C:\Users\tbele\source\repos\Arrays-9d\ArrayWithCommands\bin\Debug\ArrayWithCommands.exe.config
+C:\Users\tbele\source\repos\Arrays-9d\ArrayWithCommands\bin\Debug\ArrayWithCommands.exe
+C:\Users\tbele\source\repos\Arrays-9d\ArrayWithCommands\bin\Debug\ArrayWithCommands.pdb
+C:\Users\tbele\source\repos\Arrays-9d\ArrayWithCommands\obj\Debug\ArrayWithCommands.csproj.AssemblyReference.cache
+C:\Users\tbele\source\repos\Arrays-9d\ArrayWithCommands\obj\Debug\ArrayWithCommands.csproj.CoreCompileInputs.cache
+C:\Users\tbele\source\repos\Arrays-9d\ArrayWithCommands\obj\Debug\ArrayWithCommands.exe
+C:\Users\tbele\source\repos\Arrays-9d\ArrayWithCommands\obj\Debug\ArrayWithCommands.pdb

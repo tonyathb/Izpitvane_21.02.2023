@@ -1,0 +1,7 @@
+C:\Users\tbele\source\repos\Arrays-9d\Zdacha24.01.2023\bin\Debug\Zdacha24.01.2023.exe.config
+C:\Users\tbele\source\repos\Arrays-9d\Zdacha24.01.2023\bin\Debug\Zdacha24.01.2023.exe
+C:\Users\tbele\source\repos\Arrays-9d\Zdacha24.01.2023\bin\Debug\Zdacha24.01.2023.pdb
+C:\Users\tbele\source\repos\Arrays-9d\Zdacha24.01.2023\obj\Debug\Zdacha24.01.2023.csproj.AssemblyReference.cache
+C:\Users\tbele\source\repos\Arrays-9d\Zdacha24.01.2023\obj\Debug\Zdacha24.01.2023.csproj.CoreCompileInputs.cache
+C:\Users\tbele\source\repos\Arrays-9d\Zdacha24.01.2023\obj\Debug\Zdacha24.01.2023.exe
+C:\Users\tbele\source\repos\Arrays-9d\Zdacha24.01.2023\obj\Debug\Zdacha24.01.2023.pdb

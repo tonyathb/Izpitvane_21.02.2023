@@ -1,0 +1,7 @@
+C:\Users\tbele\source\repos\Arrays-9d\BestOftenElement\bin\Debug\BestOftenElement.exe.config
+C:\Users\tbele\source\repos\Arrays-9d\BestOftenElement\bin\Debug\BestOftenElement.exe
+C:\Users\tbele\source\repos\Arrays-9d\BestOftenElement\bin\Debug\BestOftenElement.pdb
+C:\Users\tbele\source\repos\Arrays-9d\BestOftenElement\obj\Debug\BestOftenElement.csproj.AssemblyReference.cache
+C:\Users\tbele\source\repos\Arrays-9d\BestOftenElement\obj\Debug\BestOftenElement.csproj.CoreCompileInputs.cache
+C:\Users\tbele\source\repos\Arrays-9d\BestOftenElement\obj\Debug\BestOftenElement.exe
+C:\Users\tbele\source\repos\Arrays-9d\BestOftenElement\obj\Debug\BestOftenElement.pdb
